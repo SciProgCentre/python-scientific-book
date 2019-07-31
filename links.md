@@ -10,3 +10,7 @@
 ## Habrahabr
 
 * [Разработка надёжных Python-скриптов](https://habr.com/ru/company/ruvds/blog/462007/)
+
+## Разное
+
+* [Do you know Python?](https://alexbers.com/python_quiz/)
