@@ -46,7 +46,7 @@ chmod +x Anaconda3-5.1.0-Linux-x86_64.sh
 ./Anaconda3-5.1.0-Linux-x86_64.sh
 ```
 
-следуйте инструкции.
+следуйте инструкции, причем я рекомендую разрешить `Anaconda` сделать запись в файл `.bashrc`.
 
 ## Google Colab
 
