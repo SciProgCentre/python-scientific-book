@@ -22,4 +22,5 @@
 * [](./02.ipynb)
 * [](./03.ipynb)
 * [](./04.ipynb)
-* 
+* [Вычислительный Python](./skikit_py.md)
+  * [](./05.ipynb)
