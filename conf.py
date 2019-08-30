@@ -140,14 +140,15 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("https://mipt.ru/education/chair/physics/", "Кафедра общей физики"),
         ("http://npm.mipt.ru/", "NPM Group"),
-        ("https://www.python.org/", "Python"),
-        ((("http://npm.mipt.ru/", "TeacherEdition"), 
-         ("http://npm.mipt.ru/", "StudentEdition"),
-         ("http://npm.mipt.ru/", "ScientistEdition"),
-         ("http://npm.mipt.ru/", "Источники")),
-             "Навигация")
+        ("https://www.python.org/", "Python")
     ),
 }
+
+#         ((("http://npm.mipt.ru/", "TeacherEdition"), 
+#         ("http://npm.mipt.ru/", "StudentEdition"),
+#        ("http://npm.mipt.ru/", "ScientistEdition"),
+#         ("http://npm.mipt.ru/", "Источники")),
+#             "Навигация")
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
