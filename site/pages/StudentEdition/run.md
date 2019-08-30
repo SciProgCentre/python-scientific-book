@@ -1,4 +1,6 @@
-# Запуск Python
+.. title: Запуск Python
+.. slug: run_student
+.. type: text
 
 Есть два основных способа работать с Python: это запуск кода написанного на Python как отдельной программы и запуск Python кода в различных интерактивных окружениях (таких как рабочая тетрадь [Jupyter Notebook](https://jupyter.org)).
 
@@ -57,3 +59,6 @@ conda install package_name
 ```sh
 conda install python=3.7 numpy scipy
 ```
+
+[Предыдущий](link://slug/install_student){: .btn}
+[Дальше](link://slug/scikit_py_student){: .btn}
