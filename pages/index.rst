@@ -1,6 +1,6 @@
 .. title: PythonBook
 .. slug: index
-.. date: 2019-08-29 16:44:04 UTC+03:00
+.. date: 2019-09-01 12:00:00 UTC+03:00
 .. tags: 
 .. category: 
 .. link: 
