@@ -141,6 +141,11 @@ NAVIGATION_LINKS = {
         ("https://mipt.ru/education/chair/physics/", "Кафедра общей физики"),
         ("http://npm.mipt.ru/", "NPM Group"),
         ("https://www.python.org/", "Python"),
+        ((("http://npm.mipt.ru/", "TeacherEdition"), 
+         ("http://npm.mipt.ru/", "StudentEdition"),
+         ("http://npm.mipt.ru/", "ScientistEdition"),
+         ("http://npm.mipt.ru/", "Источники")),
+             "Навигация")
     ),
 }
 
