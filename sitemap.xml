@@ -7,7 +7,99 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/</loc>
-  <lastmod>2019-08-29T17:24:00Z</lastmod>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/01/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/02/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/03/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/04/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/05/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/06/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/07/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/08/</loc>
+  <lastmod>2019-08-29T22:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/data/data/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/data/mechanic_114/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/data/temp/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/example_fit/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/install_student/</loc>
+  <lastmod>2019-08-29T23:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/installation/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/intro_student/</loc>
+  <lastmod>2019-08-29T22:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/introduction/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/nb_1_student/</loc>
+  <lastmod>2019-08-30T00:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/nb_student/</loc>
+  <lastmod>2019-08-30T00:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/readme/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/run/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/run_student/</loc>
+  <lastmod>2019-08-29T23:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/scikit_py/</loc>
+  <lastmod>2019-08-29T22:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/StudentEdition/scikit_py_student/</loc>
+  <lastmod>2019-08-29T23:50:00Z</lastmod>
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/TeacherEdition/introduction_teacher/</loc>
@@ -18,8 +110,12 @@
   <lastmod>2019-08-29T17:24:00Z</lastmod>
  </url>
  <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/TeacherEdition/usage_jupyter/</loc>
+  <lastmod>2019-08-29T22:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/archive.html</loc>
-  <lastmod>2019-08-29T17:24:00Z</lastmod>
+  <lastmod>2019-08-30T00:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/blog/</loc>
