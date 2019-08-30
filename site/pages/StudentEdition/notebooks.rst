@@ -1,33 +1,10 @@
-.. title: StudentEdition: Оглавление
-.. slug: student_edition
+.. title: Jupyter Notebooks
+.. slug: nb_student
 .. type: text
 
+Что же пора приступить к практике, по этой ссылке вы можете найти рабочие тетради с методическим материалом, что бы скачать и запустить их на своем компьютере.
+Так же вы можете просмотреть их содержимое с помощью этого сайта:
 
-* :doc:`Введение <intro_student>`
-
-  * Зачем вообще читать это руководство?
-  * Как читать это руководство
-  * Почему Python?
-  * Итак Python:
-
-* :doc:`Установка Python и ПО <install_student>`
-  
-  * Дистрибутив Anaconda
-  * Установка дистрибутива Anaconda
-  
-    * Windows
-    * MacOs
-    * Linux
- 
-  * Google Colab
-
-* :doc:`Запуск Python <run_student>`
-
-  * Написание и запуск отдельных программ на Python
-  * Python Notebook
-  * Google Colab
-  * Установка пакетов c `conda`
-* :doc:`Вычислительный Python <scikit_py_student>`
 * :doc:`Введение в Python и работа с Jupyter Notebook <01>`
 
   * Hello World!
@@ -66,4 +43,3 @@
 
   * Фитирование
   * Гистограммы и распределения
-

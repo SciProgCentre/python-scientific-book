@@ -1,4 +1,7 @@
-# Установка Python и ПО
+.. title: Установка Python и ПО
+.. slug: install_student
+.. type: text
+
 
 ![png](https://imgs.xkcd.com/comics/python_environment.png)
 
@@ -51,3 +54,6 @@ chmod +x Anaconda3-5.1.0-Linux-x86_64.sh
 ## Google Colab
 
 Также есть возможность не устанавливать дистрибутив `Anaconda`, а пользоваться [`Google Colab`](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) (документация есть на официальном сайте).
+
+[Предыдущий](link://slug/intro_student){: .btn}
+[Дальше](link://slug/run_student){: .btn}

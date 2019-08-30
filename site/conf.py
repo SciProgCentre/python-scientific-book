@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Mikhail Zelenyi"  # (translatable)
+BLOG_AUTHOR = "NPM Group"  # (translatable)
 BLOG_TITLE = "PythonBook"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -24,7 +24,7 @@ SITE_URL = "https://mipt-npm.github.io/python-scientific-book/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "n.tesla@example.com"
+BLOG_EMAIL = "mihail.zelenyy@phystech.edu"
 BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
 
 # Nikola is multilingual!
@@ -138,9 +138,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("https://mipt.ru", "MIPT"),
-        ("https://mipt.ru", "MIPT"),
-        ("https://mipt.ru", "MIPT"),
+        ("https://mipt.ru/education/chair/physics/", "Кафедра общей физики"),
+        ("http://npm.mipt.ru/", "NPM Group"),
+        ("https://www.python.org/", "Python"),
     ),
 }
 
@@ -221,7 +221,7 @@ PAGES = (
     ("pages/*.md", "", "page.tmpl"),
     ("pages/*.txt", "", "page.tmpl"),
     ("pages/*.html", "", "page.tmpl"),
-    ("pages/TeacherEdition/*.md", "", "page.tmpl")
+    ("pages/*.ipynb", "", "page.tmpl"),
 )
 
 
