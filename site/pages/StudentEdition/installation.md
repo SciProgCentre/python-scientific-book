@@ -5,17 +5,17 @@
 
 ![png](https://imgs.xkcd.com/comics/python_environment.png)
 
-Для того что бы начать работать с Python нужно установить его, а также некоторые полезные инструменты. Существуют несколько вариантов как работать с Python, здесь мы изложим два самых доступных, об остальных вариантах вы можете узнать в расширенном руководстве.
+Для того, чтобы начать работать с Python, нужно установить его, а также некоторые полезные инструменты. Существует несколько вариантов работы с Python, здесь мы изложим два самых доступных, об остальных вариантах вы можете узнать в расширенном руководстве.
 
 ## Дистрибутив Anaconda
 
 [Дистрибутив](https://ru.wikipedia.org/wiki/Дистрибутив) Anaconda содержит в себе все необходимое для работу с Python:
 
 * Около тысячи пакетов для языков программирования Python и R;
-* Может быть установлен на любой популярной операционной системе (Windows, Linux и MacOS)
+* Может быть установлен на любой популярной операционной системе (Windows, Linux и MacOS);
 * Использует пакетный менеджер `conda` и предоставляет графический интерфейс для него;
-* Рабочая тетрадь [Jupyter Notebook](https://jupyter.org)
-* Рабочее окружение `Anaconda Navigator`
+* Рабочая тетрадь [Jupyter Notebook](https://jupyter.org);
+* Рабочее окружение `Anaconda Navigator`.
   
 ## Установка дистрибутива Anaconda
 
@@ -23,7 +23,7 @@
 
 ### Windows
 
-Нажмите кнопку `64-Bit Graphical Installer` или `32-Bit Graphical Installer` под надписью `Python 3.7` в зависимости от разрядности системы (разрядность можно узнать [вот так](https://support.microsoft.com/ru-ru/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) или [так](https://support.microsoft.com/ru-ru/help/15056/windows-32-64-bit-faq)). Запустите скачанный файл и следуйте инструкции. После установки программы из Anaconda будут доступны в меню `Пуск`, для управления Anaconda вы можете использовать программу `Anaconda Navigator`.
+Нажмите кнопку `64-Bit Graphical Installer` или `32-Bit Graphical Installer` под надписью `Python 3.7` в зависимости от разрядности системы (разрядность можно узнать [вот так](https://support.microsoft.com/ru-ru/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) или [так](https://support.microsoft.com/ru-ru/help/15056/windows-32-64-bit-faq)). Запустите загруженный файл и следуйте инструкции. После установки программы из Anaconda будут доступны в меню `Пуск`, для управления Anaconda вы можете использовать программу `Anaconda Navigator`.
 
 ### MacOs
 
