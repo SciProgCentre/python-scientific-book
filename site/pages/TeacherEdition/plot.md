@@ -67,3 +67,5 @@
 * Ошибки результатов моделирования представлены в виде области.
 
 ![Пример 7](/images/TeacherEdition/example_07.png)
+
+[Предыдущий](link://slug/usage_jupyter){: .btn}
