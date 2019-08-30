@@ -1,4 +1,6 @@
-# Источники
+.. title: Источники
+.. slug: links
+.. type: text
 
 Материалы использованные для составления данного руководства и просто полезные ссылки.
 
@@ -16,6 +18,10 @@
 * [NumPy в Python. Часть 3](https://habr.com/ru/post/413381/)
 * [NumPy в Python. Часть 4](https://habr.com/ru/post/415373/)
 * [Как использовать HDF5-файлы в Python](https://habr.com/ru/company/otus/blog/416309/)
+
+## Шпаргалки
+
+* [Matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 
 ## Разное
 
