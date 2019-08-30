@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html prefix="" lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>Установка Python и ПО | PythonBook</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://mipt-npm.github.io/python-scientific-book/StudentEdition/install_student/">
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+     tex2jax: {
+         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+         displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+         processEscapes: true
+     },
+     displayAlign: 'center', // Change this to 'left' if you want left-aligned equations.
+     "HTML-CSS": {
+         styles: {'.MathJax_Display': {"margin": 0}}
+     }
+ });
+ </script><!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="NPM Group">
+<meta property="og:site_name" content="PythonBook">
+<meta property="og:title" content="Установка Python и ПО">
+<meta property="og:url" content="https://mipt-npm.github.io/python-scientific-book/StudentEdition/install_student/">
+<meta property="og:description" content="Для того, чтобы начать работать с Python, нужно установить его, а также некоторые полезные инструменты. Существует несколько вариантов работы с Python, здесь мы изложим два самых доступных, об остальн">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2019-08-30T13:31:41+03:00">
+</head>
+<body>
+    
+
+    <header id="header" class="navbar"><div class="container">
+            
+    <div class="brand">
+
+        <div class="brand-text">
+            <a href="https://mipt-npm.github.io/python-scientific-book/" title="PythonBook" rel="home">
+                PythonBook
+            </a>
+        </div>
+
+        <a id="btn-toggle-nav" class="navbar-toggle">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+    </div>
+
+            
+    <nav class="navbar-collapse collapse"><ul class="nav">
+<li><a href="https://mipt.ru/education/chair/physics/">Кафедра общей физики</a></li>
+                <li><a href="http://npm.mipt.ru/">NPM Group</a></li>
+                <li><a href="https://www.python.org/">Python</a></li>
+            <!-- sub navigation not supported yet -->
+    
+    
+    </ul></nav>
+</div>
+    </header><div class="header-padding"> </div>
+
+    
+    <div class="post-header">
+        <div class="container">
+            <div class="title">
+                Установка Python и ПО
+            </div>
+        </div>
+    </div>
+
+    <div id="post-main" class="main">
+        <div class="container">
+        <div>
+<p><img alt="png" src="https://imgs.xkcd.com/comics/python_environment.png"></p>
+<p>Для того, чтобы начать работать с Python, нужно установить его, а также некоторые полезные инструменты. Существует несколько вариантов работы с Python, здесь мы изложим два самых доступных, об остальных вариантах вы можете узнать в расширенном руководстве.</p>
+<h3>Дистрибутив Anaconda</h3>
+<p><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2">Дистрибутив</a> Anaconda содержит в себе все необходимое для работу с Python:</p>
+<ul>
+<li>Около тысячи пакетов для языков программирования Python и R;</li>
+<li>Может быть установлен на любой популярной операционной системе (Windows, Linux и MacOS);</li>
+<li>Использует пакетный менеджер <code>conda</code> и предоставляет графический интерфейс для него;</li>
+<li>Рабочая тетрадь <a href="https://jupyter.org">Jupyter Notebook</a>;</li>
+<li>Рабочее окружение <code>Anaconda Navigator</code>.</li>
+</ul>
+<h3>Установка дистрибутива Anaconda</h3>
+<p>Для загрузки перейдите на сайт <a href="https://www.anaconda.com/">anaconda.com</a>, нажмите кнопку <code>Downloads</code> в правом верхнем углу страницы, выберите свою операционную систему (Windows, MacOS или Linux)</p>
+<h4>Windows</h4>
+<p>Нажмите кнопку <code>64-Bit Graphical Installer</code> или <code>32-Bit Graphical Installer</code> под надписью <code>Python 3.7</code> в зависимости от разрядности системы (разрядность можно узнать <a href="https://support.microsoft.com/ru-ru/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64">вот так</a> или <a href="https://support.microsoft.com/ru-ru/help/15056/windows-32-64-bit-faq">так</a>). Запустите загруженный файл и следуйте инструкции. После установки программы из Anaconda будут доступны в меню <code>Пуск</code>, для управления Anaconda вы можете использовать программу <code>Anaconda Navigator</code>.</p>
+<h4>MacOs</h4>
+<p>Нажмите кнопку <code>64-Bit Graphical Installer</code> под надписью <code>Python 3.7</code>, запустите скачанный файл и следуйте инструкции.</p>
+<h4>Linux</h4>
+<p>Нажмите кнопку <code>64-Bit (x86) Installer</code> под надписью <code>Python 3.7</code>. Откройте терминал и перейдите в папку где лежит скачанный файл:</p>
+<pre class="code literal-block"><span></span><span class="nb">cd</span> путь/до/директории/c/файлом
+</pre>
+
+
+<p>После чего разрешите исполнение скачанного файла (имя файла может отличаться):</p>
+<pre class="code literal-block"><span></span>chmod +x Anaconda3-5.1.0-Linux-x86_64.sh
+</pre>
+
+
+<p>и запустите установку:</p>
+<pre class="code literal-block"><span></span>./Anaconda3-5.1.0-Linux-x86_64.sh
+</pre>
+
+
+<p>следуйте инструкции, причем я рекомендую разрешить <code>Anaconda</code> сделать запись в файл <code>.bashrc</code>.</p>
+<h3>Google Colab</h3>
+<p>Также есть возможность не устанавливать дистрибутив <code>Anaconda</code>, а пользоваться <a href="https://colab.research.google.com/notebooks/welcome.ipynb#recent=true"><code>Google Colab</code></a> (документация есть на официальном сайте).</p>
+<p><a class="btn" href="../intro_student/">Предыдущий</a>
+<a class="btn" href="../run_student/">Дальше</a></p>
+</div>
+        
+
+        </div>
+    </div>
+
+    
+    <footer><div class="container">
+            <div class="social">
+
+
+
+                <div class="social-entry">
+                    <a href="../../rss.xml" target="_blank">
+                        <i class="fa fa-rss"></i> 
+                    </a>
+                </div>
+            </div>
+                <div class="copyright">
+                    Contents © 2019         <a href="mailto:mihail.zelenyy@phystech.edu">NPM Group</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+                    
+                </div>
+           
+        </div>
+    </footer><script src="../../assets/js/all-nocdn.js" type="text/javascript"></script>
+</body>
+</html>

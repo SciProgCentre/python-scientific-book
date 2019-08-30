@@ -1,0 +1,4 @@
+Sitemap: https://mipt-npm.github.io/python-scientific-book/sitemapindex.xml
+
+User-Agent: *
+Host: mipt-npm.github.io
