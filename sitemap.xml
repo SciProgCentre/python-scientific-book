@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/</loc>
+  <lastmod>2019-08-30T19:43:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/ScientistEdition/01metodicheskiiseminar_20180314/</loc>
   <lastmod>2019-08-30T19:41:00Z</lastmod>
  </url>
@@ -144,6 +148,10 @@
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/TeacherEdition/usage_jupyter/</loc>
   <lastmod>2019-08-30T19:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/archive.html</loc>
+  <lastmod>2019-08-30T19:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/blog/</loc>
