@@ -15,7 +15,11 @@
 * :doc:`ScientistEdition <scientist_edition>` --- (в разработке) разрабатывается как расширенное руководства по применению в науке Python в  частности и программирование в общем. Предполагаемые темы:
 * :doc:`Источники <links>` --- статьи для дополнительного чтения и саморазвития студентов.
 
-`Задать вопрос составителям <https://t.me/mipt_npm>`_. Или `вот так <https://vk.com/ta_nyan>`_.
+Задать вопрос составителям:
+
+* `Здесь на GitHub <https://github.com/mipt-npm/python-scientific-book/issues>`_
+* `Telegramm <https://t.me/mipt_npm>`_
+* `VKontakte <https://vk.com/topic-186056697_43264449>`_
 
 Полезные материалы
 ------------------
