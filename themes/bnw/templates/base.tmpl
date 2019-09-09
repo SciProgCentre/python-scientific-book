@@ -8,13 +8,49 @@ ${zzz.html_headstart()}
 ### Leave this block alone.
 </%block>
 ${template_hooks['extra_head']()}
+<script src="../../assets/js/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+
+$(function() {
+    var $elem = $('body');
+    $(window).scroll(function() {
+        if($(this).scrollTop() != 0) {
+            $('#toTop').fadeIn("slow");
+        } else {
+            $('#toTop').fadeOut();
+        }
+    });
+
+    $('#toDown').fadeIn("slow");
+
+    $('#toTop').click(function() {
+        $('body,html').animate({scrollTop:0},800);
+        });
+    $('#toDown').click(function() {
+        $('body,html').animate({scrollTop:$elem.height()},800);
+        });
+
+});
+
+</script>
 </head>
 <body>
     ${header.html_header()}
-    <%block name="content"></%block>
+    <%block name="content"></%block>    
+    <!--Кнопки вверх/вниз-->
+    <div id="toTop">
+    <img src="../../images/arrow-up.svg" alt="^Наверх" height="30" border="0"/>
+    </div>
+    <div id="toDown">
+    <img src="../../images/arrow-down.svg" alt="Вниз" height="30" border="0"/>
+    </div>
+    <!--Кнопки вверх/вниз-->
     ${footer.html_footer()}
     ${body_end}
     ${template_hooks['body_end']()}
     ${zzz.late_load_js()}
+    
+
+
 </body>
 </html>

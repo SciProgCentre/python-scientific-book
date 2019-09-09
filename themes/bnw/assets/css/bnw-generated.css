@@ -559,5 +559,36 @@ blockquote {
     width: 970px;
   }
 }
+
+#toTop {
+  width:100px;
+  background:transparent;
+  text-align:center;
+  padding:5px;
+  position:fixed;
+  bottom:65px; /* отступ кнопки от нижнего края страницы*/
+  right:10px;
+  cursor:pointer;
+  display:none;
+  color:#333;
+  font-family:verdana;
+  font-size:11px;
+  }
+
+#toDown {
+  width:100px;
+  background:transparent;
+  text-align:center;
+  padding:5px;
+  position:fixed;
+  bottom:10px; /* отступ кнопки от нижнего края страницы*/
+  right:10px;
+  cursor:pointer;
+  display:none;
+  color:#333;
+  font-family:verdana;
+  font-size:11px;
+  }
+
 /* responsive layout
  * ---------------------------------------------------*/
