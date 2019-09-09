@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/</loc>
-  <lastmod>2019-08-30T19:43:00Z</lastmod>
+  <lastmod>2019-09-07T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/ScientistEdition/01metodicheskiiseminar_20180314/</loc>
@@ -151,7 +151,11 @@
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/archive.html</loc>
-  <lastmod>2019-08-30T21:23:00Z</lastmod>
+  <lastmod>2019-09-08T08:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://mipt-npm.github.io/python-scientific-book/authors/</loc>
+  <lastmod>2019-09-07T09:55:00Z</lastmod>
  </url>
  <url>
   <loc>https://mipt-npm.github.io/python-scientific-book/blog/</loc>
