@@ -2,7 +2,7 @@
 .. slug: nb_student
 .. type: text
 
-Что же пора приступить к практике, по этой `ссылке <https://github.com/mipt-npm/python-scientific-book/tree/master/site/pages/StudentEdition>`_ вы можете найти рабочие тетради с методическим материалом, что бы скачать и запустить их на своем компьютере.
+Что же пора приступить к практике, по этой `ссылке <https://github.com/mipt-npm/python-scientific-book/tree/master/pages/StudentEdition>`_ вы можете найти рабочие тетради с методическим материалом, что бы скачать и запустить их на своем компьютере.
 Так же вы можете просмотреть их содержимое с помощью этого сайта:
 
 * :doc:`Введение в Python и работа с Jupyter Notebook <01>`
