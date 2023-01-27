@@ -2,7 +2,7 @@
 
 Руководство по использованию Python как языка для научных вычислений.
 
-[Читать здесь](https://mipt-npm.github.io/python-scientific-book/)
+[Читать здесь](https://sciprogcentre.github.io/python-scientific-book/)
 
 * [TeacherEdition](pages/TeacherEdition/README.md) --- рабочие тетради Jupyter Notebook к рекомендациям по проверке отчетов подготовленных с использование языка Python.
 * [StudentEdition](pages/StudentEdition/README.md) ---рабочие тетради Jupyter Notebook к руководству по использованию Python для обработки лабораторных работ на кафедре общей физики МФТИ.
